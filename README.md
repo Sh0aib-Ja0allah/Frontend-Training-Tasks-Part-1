@@ -1,6 +1,6 @@
 # Frontend-Training-Tasks-Part-1
 
-### This repository describes a Starting point of Front-end Training Tasks in X Company, and this is just part 1 of it and I will follow it with another repositories you will find in my GitHub Profile.
+### This repository describes a Starting point of Front-end Training Tasks in X Company, and this is just part 1 of it and I will follow it with another repositories you will find in my <a href="https://github.com/Sh0aib-Ja0allah?tab=repositories">GitHub Profile</a>.
 ## To Run this part and see the results follow link : <br />https://sh0aib-ja0allah.github.io/Frontend-Training-Tasks-Part-1/
 
 ## Task #1:
