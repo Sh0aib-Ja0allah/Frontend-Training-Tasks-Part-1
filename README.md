@@ -16,6 +16,14 @@ See the image below for what the result is now and what it should be after your 
 
 Given that we have the following HTML: 
 
+<!-- <div id="my-div"> 
+         <h3>Header</h3>
+         <p>first paragraph</p> 
+         <h1>I am h1</h1> 
+         <p>second paragraph</p> 
+         <h1>I am h1</h1> 
+     </div> -->
+
 ![Design preview for the Second task](./task2.png)
 
 Write a CSS to turn the 1st paragraph text to red. 
