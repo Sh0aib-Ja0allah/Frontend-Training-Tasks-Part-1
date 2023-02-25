@@ -10,19 +10,13 @@ Align the content div vertically in the middle of the red container, the content
 Please deliver two solutions one using CSS2 and the second using CSS3. 
 See the image below for what the result is now and what it should be after your CSS solution: 
 
-![Design preview for the First task](./part1.png)
+![Design preview for the First task](./task1.png)
 
 ## Task #2:
 
 Given that we have the following HTML: 
 
-<div id="my-div"> 
-   <h3>Header</h3> 
-   <p>first paragraph</p> 
-   <h1>I am h1</h1> 
-   <p>second paragraph</p> 
-   <h1>I am h1</h1>
-</div> 
+![Design preview for the Second task](./task2.png)
 
 Write a CSS to turn the 1st paragraph text to red. 
 
@@ -36,10 +30,10 @@ Don’t modify HTML at all, modify CSS as you want but don’t use JavaScript.
 
 The result currently looks like this: 
 
-![Design preview for the Third task part 1](./part3.1.png)
+![Design preview for the Third task part 1](./task3.1.png)
 
 We want the result to be like this:
 
-![Design preview for the Third task part 2 the result needed](./part3.2.png)
+![Design preview for the Third task part 2 the result needed](./task3.2.png)
 
 ### Thanks.
