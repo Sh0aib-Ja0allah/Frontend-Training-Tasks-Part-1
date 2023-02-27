@@ -27,7 +27,7 @@ Given that we have the following HTML:
 
 ![Design preview for the Second task](./task2.png)
 
-Write a CSS to turn the 1st paragraph text to red. 
+Write a CSS code to turn the 1st paragraph text to red without changing the HTML code. 
 
 ## Task #3:  
 
